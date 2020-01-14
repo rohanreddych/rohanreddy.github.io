@@ -1,0 +1,4 @@
+      A QUICK WAY TO LEARN JAVASCRIPT NOTES BASED ON THE COURSE BY KYLE SIMPSON
+1. Variables 
+  var name="rohan"
+  
