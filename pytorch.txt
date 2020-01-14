@@ -1,0 +1,13 @@
+            Udacity Deep Learning Nano-Degree Notes 
+1. Perceptrons
+  perceptrons are representations of graphs, in a binary classification problem if we get a linear equation which can separate 
+  the two classes then we can keep that function inside a node and the two inputs in two input nodes and the bias term also in
+  a node ( in equation constant so thats why bias = 1 matrix multiplication)
+
+
+ 2. Brain Equivalent
+ Dendrite - input 
+ Nucleus - function
+ Axon - output
+ 
+ 3. Perceptrons can be treated like logic gates 
