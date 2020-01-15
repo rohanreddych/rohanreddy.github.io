@@ -46,3 +46,16 @@
                     boundary_lines.append((-W[0]/W[1], -b/W[1]))
                 return boundary_lines
 4. Gradient Descent problem
+5. From discrete to continuos we change from step function to sigmoid function.
+6. Softmax Function 
+   It is used for multiclass classification
+   
+
+
+
+
+
+
+
+
+
