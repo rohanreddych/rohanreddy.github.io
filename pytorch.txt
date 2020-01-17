@@ -48,10 +48,14 @@
 4. Gradient Descent problem
 5. From discrete to continuos we change from step function to sigmoid function.
 6. Softmax Function 
-   It is used for multiclass classification
+   It is used for multiclass classification (e^x / e^x+e^y+e^z)
+7. Cross entropy
+	We are calculating the probabilities of an element belonging to a class, for comparing two models we can look at their
+	cross-entropy which is the negative sum of logartithm of probabilities (-log(p1)-log(1-p1)-log(p2)-log(1-p2))
+	if more cross entropy bad model
+8. 
+
    
-
-
 
 
 
