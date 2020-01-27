@@ -57,7 +57,9 @@
 	y*ln(p) + (1-Y)*ln(1-p)
 8.
 
-   
+PYTORCH
+tensor -- a tensor is a generalisation of a matrix, tenosor
+
 
 
 
