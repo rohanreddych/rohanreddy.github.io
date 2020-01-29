@@ -59,10 +59,11 @@
 
 PYTORCH
 tensor -- a tensor is a generalisation of a matrix, tenosor
-
-
-
-
+-- numpy to tensor
+	a =np.random.randn()
+	b = torch.from_numpy(a)
+	b.numpy() #same as tf
+	
 
 
 
