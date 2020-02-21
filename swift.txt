@@ -1,0 +1,3 @@
+-- Variable Declaration 
+var name = "value"      (the space around = should be consistent)
+var name=1  
