@@ -121,9 +121,60 @@ let is used to assign constants you cannot change the value of a
     
     print(obj.a)  #prints Optional(rohan)
     
-    to unpack the con
-
+    to unpack the contents of obj.a we can use !
+    
+    print(obj.a!) #prints rohan
+    
+    
+--- Arrays
+  var d =[1,2,34]
+    for i in d{
+    {
+  to init an empty array we can do 
+    var e = [Int]() or var f = [String]()
   
+  we can perform append and remove operations on the arrays
+    e.append(12)
+    e.remove(at:12)
+  e.count = lenght of array 
+  
+  // Different functions in documentation or press array. 
+  
+-- Dicts 
+  var dict = Dictionary<String, String>()
+        OR
+  var dict2 = [String:String]()
+  
+  add -- dict["rohan"] = "reddy"
+  access using a key -- dict["rohan"] == Optional("reddy")
+  
+  for (i,j) in dict {
+    }
+    
+-- tuple is (a, b)
+
+-- Structs
+
+  struct names{
+    var fname
+    int id
+  }
+  var name1 = name(fname:"rasd", id:12)
+  
+-- Enums
+  Data does not change in this
+  
+  enum Directions {
+    case North
+    case South
+    
+    }
+    
+    var dir = Directions.North
+    You can use this switch case 
+    
+    
+
   
   
   
