@@ -3,6 +3,8 @@ var name = "value"      (the space around = should be consistent)
 var name=1  
 
 -- print() prints to console
+  print("My name is \(name)\")  Print formating 
+
 
 -- let a = 10
 let is used to assign constants you cannot change the value of a 
@@ -11,7 +13,119 @@ let is used to assign constants you cannot change the value of a
   var str:String = "rohan"
   var a:Int = 12
   
-  str = String(a)         (for changing the data types of variables) Float, Double, 
+  str = String(a)         (for changing the data types of variables) Float, Double, Character
   Bool = true
   
--- 
+-- If condition 
+  if a < 4 {
+    print(a)
+    }
+  else if {
+  }
+  else {
+  }
+  
+-- logical operators
+  and -- &&
+  or -- ||
+  not -- != 
+  
+-- switch case
+  switch ch {
+    case 1:
+      abc
+    case 2, 3:    #for multiple values
+      xyz
+    default:
+      pqr
+    }
+-- loops 
+  var str = "Rohan"
+  for i in str{                   for i in 1...5{
+    print(i)                            print(i)
+    }                                 }
+    
+
+-- while is same
+-- repeat-while 
+  repeat{
+  
+  }
+  while condition
+  
+-- Functions
+
+  func add(arg1 para1:Int, arg2 para2:Int) -> Int{     OR     func add(para1:Int, para2:Int) -> Int{    
+    return para1+para2
+    }
+    
+    -> return type 
+    
+    function call 
+     a =  add(arg1:23, arg2:34)
+     
+    --- using _ 
+     func add(_ n1:Int, _ n2:Int) -> Int{
+     }
+     
+     add(1,2)
+     
+-- Classes
+  class Name{       (capital better datatypes start with capital letters in swift)
+    
+    }
+    
+  Objects
+  
+  let name = Name()     (instantiations)
+  name.fname = "rohan"
+  
+  Inheritance 
+    class child : parent {
+    }
+    
+    Overriding
+      class child :parent{
+        override func drive(){
+          }
+          
+      super.drive()     (super keyword same )
+         
+    Initialization
+    
+      class name{
+      
+        init()                                  (this allows that we can call it like var b)
+        init(n:String, a:Int){
+          name = "rohan"
+          }
+        }
+    
+    var a = name(n:"rohan", a:12)
+    var b = name()
+        
+-- Initiating a null variable 
+  var a:String?       #creates a null variable
+  
+  TO check if a variable is null or not 
+    if let const = a.string {
+      }
+  We can do this for classes too.
+  
+
+-- Optionals 
+   in the above when we assign a value to the nil value of the string and try to print it shows an error showing that it is
+   an optional and not a normal variable
+    #inside class      var a:String?
+    obj.a = "rohan"
+    
+    print(obj.a)  #prints Optional(rohan)
+    
+    to unpack the con
+
+  
+  
+  
+  
+  
+
