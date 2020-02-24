@@ -173,9 +173,25 @@ let is used to assign constants you cannot change the value of a
     var dir = Directions.North
     You can use this switch case 
     
-    
+  *** extensions     
+  
 
   
+                SWIFT FOR TENSORFLOW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
   
   
