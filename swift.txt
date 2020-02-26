@@ -175,6 +175,24 @@ let is used to assign constants you cannot change the value of a
     
   *** extensions     
   
+Variadic Functions
+  We can pass arguements to functions like a list (in java String args[]) 
+  ... is used for this purpose
+  func add(_ nums:Int...)->Int{
+    var sum=0;
+    for i in add{
+      sum+=i
+      }
+     return sum
+     }
+
+  Generics
+    if we have a swap function then if we write using normal data types we have to write for string and int separately 
+    swap (Int, Int)
+    swap (String, String)
+     
+     we can use generics to solve this
+     swap <T> (_ a:T, _b:T) 
 
   
                 SWIFT FOR TENSORFLOW
