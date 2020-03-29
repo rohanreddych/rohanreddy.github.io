@@ -40,5 +40,32 @@ We can set the width or height to be "match_parent" so that the view dimensions 
 *At the start of the root view we use a XML namespace which declares android schema
 xmlns:android="http://schemas.android.com/apk/res/android" 
 
+*** We can use < android:text="@strings/hello_world"
+but we have to put a string with name hello_world in res/values/strings.xml <string name="hello_world>Hello World </string>
+
+*** 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
