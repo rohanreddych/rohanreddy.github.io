@@ -43,7 +43,20 @@ xmlns:android="http://schemas.android.com/apk/res/android"
 *** We can use < android:text="@strings/hello_world"
 but we have to put a string with name hello_world in res/values/strings.xml <string name="hello_world>Hello World </string>
 
-*** 	
+*** Use constraint layout as it is the shiznit now, we can match two objects layout by joining the circle in the design layout to the circle of the other object.
+
+*** Activity/ Layout relationship 
+	activity must load layout using the setContentView() method 
+	activity must request View reference using findViewbyId
+
+TO find the layout file resources we use the R class, generated automatically
+	R.layout
+	R.id
+	
+WE will talk about using a spinner 
+	in the java file we create a variable for using the spinner
+	Spinner sp = findViewbyId(R.id.spinner)
+	
 
 
 
