@@ -1,0 +1,392 @@
+[
+    {
+        "attachments": {
+            "media_keys": [
+                "3_1364875970264580097",
+                "3_1364875970272976896",
+                "3_1364875970189160449",
+                "3_1364875970197471236"
+            ]
+        },
+        "conversation_id": "1364875997699522562",
+        "id": "1364875997699522562",
+        "non_public_metrics": {
+            "impression_count": 13067,
+            "url_link_clicks": 107,
+            "user_profile_clicks": 70
+        },
+        "public_metrics": {
+            "like_count": 196,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 36
+        },
+        "replies": [
+            {
+                "id": "1365057762368122882",
+                "text": "@kdecommunity @almu_hs @SlimbookEs So cool!"
+            },
+            {
+                "id": "1364878816506753024",
+                "text": "@kdecommunity @SlimbookEs Ah yes casually theratening people with a baseball bat in a penguin mask."
+            }
+        ],
+        "text": ".@SlimbookEs, the company that builds desktop computers, laptops and high-end ultrabooks like the KDE Slimbook I, II and III, becomes a KDE patron:\n\nhttps://t.co/dFzFZb2651 https://t.co/HopqmxqTQj"
+    },
+    {
+        "attachments": {
+            "media_keys": [
+                "3_1364539325866799104"
+            ]
+        },
+        "conversation_id": "1364539382745755712",
+        "id": "1364539382745755712",
+        "non_public_metrics": {
+            "impression_count": 24281,
+            "user_profile_clicks": 65
+        },
+        "public_metrics": {
+            "like_count": 367,
+            "quote_count": 4,
+            "reply_count": 5,
+            "retweet_count": 62
+        },
+        "replies": [
+            {
+                "id": "1364572237160980481",
+                "text": "@kdecommunity Congratulations. Below is our news link. Greetings. \n\nhttps://t.co/rei6VgP9Bg"
+            },
+            {
+                "id": "1364563490455904261",
+                "text": "@kdecommunity Beautiful! \nWe must fix window grid. It is an important feature. \nThanks KDE!"
+            },
+            {
+                "id": "1364555454324625410",
+                "text": "@kdecommunity I've been looking for the update; I can't wait to give it a try! \ud83d\udc27"
+            },
+            {
+                "id": "1364542194791690245",
+                "text": "@kdecommunity \ud83d\udc27\u2665\ufe0f https://t.co/FHTwR1698S"
+            }
+        ],
+        "text": "Plasma 5.21.1 is here... https://t.co/pAkZbbukOE"
+    },
+    {
+        "attachments": {
+            "media_keys": [
+                "3_1364287213106774017"
+            ]
+        },
+        "conversation_id": "1364287275039875077",
+        "id": "1364287275039875077",
+        "non_public_metrics": {
+            "impression_count": 18513,
+            "url_link_clicks": 127,
+            "user_profile_clicks": 31
+        },
+        "public_metrics": {
+            "like_count": 236,
+            "quote_count": 4,
+            "reply_count": 3,
+            "retweet_count": 37
+        },
+        "replies": [
+            {
+                "id": "1364469700328095748",
+                "text": "@kdecommunity I NEED MUCH MORE STICKERS THAN YOU HAVE!\nAND SYNC WITH ALL MY MOBILE DEVICES!\nALSO HOMEBREW ENCRYPTION IS REQUIRED!\nP2Porn NETs AT LEAST!"
+            },
+            {
+                "id": "1364311609854803968",
+                "text": "@kdecommunity This is looking great, I think in a handful more itterations, I'd be inclined to use this over Element!\nHopefully we'll get it on Ubuntu Touch when the 20.04 upgrade comes out, because I think that'll come with the qt 5.14 or 5.15 I forget."
+            },
+            {
+                "id": "1364301226897268738",
+                "text": "@kdecommunity @matrixdotorg Will it support encryption soon ? It looks like it's still not the case."
+            }
+        ],
+        "text": "NeoChat, KDE's native Matrix chat client, is out and comes with a new login page that detects the server configuration from your ID, stickers, message editing, and much more. Check out all that's new at https://t.co/EwIyY1cFv2 https://t.co/9QsqjyB1LB"
+    },
+    {
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Top level interests and hobbies groupings, like Food or Travel",
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical"
+                },
+                "entity": {
+                    "description": "Technology and computing",
+                    "id": "848920371311001600",
+                    "name": "Technology"
+                }
+            },
+            {
+                "domain": {
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                    "id": "66",
+                    "name": "Interests and Hobbies Category"
+                },
+                "entity": {
+                    "description": "Computer programming",
+                    "id": "848921413196984320",
+                    "name": "Computer programming"
+                }
+            },
+            {
+                "domain": {
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                    "id": "66",
+                    "name": "Interests and Hobbies Category"
+                },
+                "entity": {
+                    "description": "Open source",
+                    "id": "849075430715936768",
+                    "name": "Open source"
+                }
+            }
+        ],
+        "conversation_id": "1362361968024256516",
+        "id": "1362361968024256516",
+        "non_public_metrics": {
+            "impression_count": 11446,
+            "user_profile_clicks": 11
+        },
+        "public_metrics": {
+            "like_count": 101,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 15
+        },
+        "referenced_tweets": [
+            {
+                "id": "1362336909368901632",
+                "type": "quoted"
+            }
+        ],
+        "replies": [],
+        "text": "This means that Italian public institutions looking for educational software for children between the ages of 2 and 10 can find GCompris easier and review it before considering other closed, proprietary alternatives. https://t.co/7VpxzNNwDM"
+    },
+    {
+        "conversation_id": "1361660168820424711",
+        "id": "1361660171123105799",
+        "non_public_metrics": {
+            "impression_count": 12640,
+            "url_link_clicks": 285,
+            "user_profile_clicks": 11
+        },
+        "public_metrics": {
+            "like_count": 164,
+            "quote_count": 8,
+            "reply_count": 3,
+            "retweet_count": 33
+        },
+        "referenced_tweets": [
+            {
+                "id": "1361660168820424711",
+                "type": "replied_to"
+            }
+        ],
+        "replies": [],
+        "text": "... And here is the Plasma 5.21 video:\n\nhttps://t.co/qKS3h1MWWy"
+    },
+    {
+        "attachments": {
+            "media_keys": [
+                "3_1361652584319229952",
+                "3_1361652601364877313",
+                "3_1361652618037198850"
+            ]
+        },
+        "conversation_id": "1361660168820424711",
+        "id": "1361660168820424711",
+        "non_public_metrics": {
+            "impression_count": 165362,
+            "url_link_clicks": 542,
+            "user_profile_clicks": 273
+        },
+        "public_metrics": {
+            "like_count": 796,
+            "quote_count": 31,
+            "reply_count": 36,
+            "retweet_count": 194
+        },
+        "replies": [
+            {
+                "id": "1364524967090548739",
+                "text": "@kdecommunity This New Version Is AWESOME!!! \u2764\ufe0f"
+            },
+            {
+                "id": "1363248951399305218",
+                "text": "@kdecommunity is the close button being red on focused windows a bug? i *really* dont like this behavior"
+            }
+        ],
+        "text": "Plasma 5.21 is out and it is the prettiest thing ever. Check out the new wallpaper, the easy-to-use application launcher, the brand new system monitor, and dozens of other improvements that make 5.21 the ideal desktop for you.\n\nhttps://t.co/21tDeSnA6g https://t.co/I9FFtSuwca"
+    },
+    {
+        "conversation_id": "1361060915316162568",
+        "id": "1361075969654669314",
+        "non_public_metrics": {
+            "impression_count": 1869,
+            "user_profile_clicks": 2
+        },
+        "public_metrics": {
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "referenced_tweets": [
+            {
+                "id": "1361060915316162568",
+                "type": "replied_to"
+            }
+        ],
+        "replies": [],
+        "text": "@tafol Thanks :)"
+    },
+    {
+        "attachments": {
+            "media_keys": [
+                "3_1361074990549004290"
+            ]
+        },
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Top level interests and hobbies groupings, like Food or Travel",
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical"
+                },
+                "entity": {
+                    "description": "Drinks",
+                    "id": "834828264786898945",
+                    "name": "Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                    "id": "66",
+                    "name": "Interests and Hobbies Category"
+                },
+                "entity": {
+                    "description": "Generic Drinks",
+                    "id": "834828445238431744",
+                    "name": "Generic Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                    "id": "67",
+                    "name": "Interests and Hobbies"
+                },
+                "entity": {
+                    "description": "Coffee",
+                    "id": "850442647088971776",
+                    "name": "Coffee"
+                }
+            },
+            {
+                "domain": {
+                    "description": "Top level interests and hobbies groupings, like Food or Travel",
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical"
+                },
+                "entity": {
+                    "description": "Drinks",
+                    "id": "834828264786898945",
+                    "name": "Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                    "id": "66",
+                    "name": "Interests and Hobbies Category"
+                },
+                "entity": {
+                    "description": "Generic Drinks",
+                    "id": "834828445238431744",
+                    "name": "Generic Drinks"
+                }
+            },
+            {
+                "domain": {
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                    "id": "67",
+                    "name": "Interests and Hobbies"
+                },
+                "entity": {
+                    "description": "Coffee",
+                    "id": "850442647088971776",
+                    "name": "Coffee"
+                }
+            }
+        ],
+        "conversation_id": "1361075499481653248",
+        "id": "1361075499481653248",
+        "non_public_metrics": {
+            "impression_count": 52840,
+            "url_link_clicks": 398,
+            "user_profile_clicks": 151
+        },
+        "public_metrics": {
+            "like_count": 517,
+            "quote_count": 3,
+            "reply_count": 9,
+            "retweet_count": 48
+        },
+        "replies": [
+            {
+                "id": "1364244766561476610",
+                "text": "@kdecommunity Man light theme is bad"
+            }
+        ],
+        "text": "The winner of our weekly screenshot competition is /u/jom4d4. The screenshot shows the Plasma Moe theme and Latte Dock and an app using the Lightly theme. Check it out at:\n\nhttps://t.co/3MYD80Vs9j \n\n#screenshotSunday https://t.co/uoaMReqZ6F"
+    },
+    {
+        "attachments": {
+            "media_keys": [
+                "3_1360187147668627457"
+            ]
+        },
+        "conversation_id": "1360189909835730946",
+        "id": "1360189909835730946",
+        "non_public_metrics": {
+            "impression_count": 8083,
+            "url_link_clicks": 12,
+            "user_profile_clicks": 1
+        },
+        "public_metrics": {
+            "like_count": 25,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 4
+        },
+        "replies": [],
+        "text": "Join tonight, 12 Feb. @ 17:00 UTC, for a chat with Doctor Luis Falc\u00f3n about MyGNUHealth. Learn more about the project, ask your questions, and enjoy some nice conversation.\nSign up and get more information here: https://t.co/I0KiZ70iHe https://t.co/E5EtQdfRxh"
+    },
+    {
+        "conversation_id": "1360154730358521856",
+        "id": "1360154730358521856",
+        "non_public_metrics": {
+            "impression_count": 9128,
+            "user_profile_clicks": 9
+        },
+        "public_metrics": {
+            "like_count": 56,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "referenced_tweets": [
+            {
+                "id": "1360152916460527617",
+                "type": "quoted"
+            }
+        ],
+        "replies": [],
+        "text": "Niccolo Venerandi continues his series on \"How to Customize Plasma like  a Pro\" with a video on how to customize dialogues and panels. https://t.co/4zzPylmx1U"
+    }
+]

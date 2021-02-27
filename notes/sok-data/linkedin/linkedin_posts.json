@@ -1,0 +1,124 @@
+[
+    {
+        "activityURN": "urn:li:activity:6770995637929439232",
+        "comments": [],
+        "id": "6770995637572923392",
+        "organizationalEntity": "urn:li:organization:29561",
+        "share": "urn:li:share:6765953125212815360",
+        "text": "Niccolo Venerandi explores KDE Plama's theming system and explains how to customize your desktop (part III).\n\nhttps://lnkd.in/dU8sTAh",
+        "totalShareStatistics": {
+            "clickCount": 4,
+            "commentCount": 0,
+            "engagement": 0.014396456256921373,
+            "impressionCount": 903,
+            "likeCount": 8,
+            "shareCount": 1
+        }
+    },
+    {
+        "activityURN": "urn:li:activity:6770643376128716800",
+        "comments": [],
+        "id": "6770643375734456320",
+        "organizationalEntity": "urn:li:organization:29561",
+        "share": "urn:li:share:6770305675147935744",
+        "text": "Slimbook, the company that builds desktop computers, laptops and high-end ultrabooks like the KDE Slimbook I, II and III, becomes a KDE patron:\n\nhttps://lnkd.in/duDKzxM",
+        "totalShareStatistics": {
+            "clickCount": 39,
+            "commentCount": 3,
+            "engagement": 0.04293324976496396,
+            "impressionCount": 3191,
+            "likeCount": 95,
+            "shareCount": 0
+        }
+    },
+    {
+        "activityURN": "urn:li:activity:6770305675567357953",
+        "comments": [
+            {
+                "id": "6771288156366077952",
+                "text": "Nice"
+            },
+            {
+                "id": "6770763300402683904",
+                "text": "Waiting for Fedora 34 with Plasma 5.21.1!"
+            },
+            {
+                "id": "6770483724112007168",
+                "text": "Awesome!"
+            }
+        ],
+        "id": "6770305675147935744",
+        "organizationalEntity": "urn:li:organization:29561",
+        "share": "urn:li:share:6770643375734456320",
+        "text": "Plasma 5.21.1 is here...",
+        "totalShareStatistics": {
+            "clickCount": 80,
+            "commentCount": 0,
+            "engagement": 0.0748663101604278,
+            "impressionCount": 2057,
+            "likeCount": 71,
+            "shareCount": 3
+        }
+    },
+    {
+        "activityURN": "urn:li:activity:6769576468214243328",
+        "comments": [],
+        "id": "6769576467438297089",
+        "organizationalEntity": "urn:li:organization:29561",
+        "share": "urn:li:share:6769576467438297089",
+        "text": "",
+        "totalShareStatistics": {
+            "clickCount": 28,
+            "commentCount": 0,
+            "engagement": 0.0336996336996337,
+            "impressionCount": 1365,
+            "likeCount": 18,
+            "shareCount": 0
+        }
+    },
+    {
+        "activityURN": "urn:li:activity:6767426056791068672",
+        "comments": [
+            {
+                "id": "6768014086916583424",
+                "text": "Congrats to all the coders that contributed to this! \ud83d\udc4d"
+            },
+            {
+                "id": "6767583106061873152",
+                "text": "I really don't understand the new application launcher. Why the need to copy to Windows (again)? The previous launcher was perfect, the new one mmm"
+            },
+            {
+                "id": "6767426099161919488",
+                "text": "... And here is the Plasma 5.21 video:\n\nhttps://youtu.be/ahEWG4JCA1w"
+            }
+        ],
+        "id": "6767426056463900672",
+        "organizationalEntity": "urn:li:organization:29561",
+        "share": "urn:li:share:6770995637572923392",
+        "text": "Plasma 5.21 is out and it is the prettiest thing ever. Check out the new wallpaper, the easy-to-use application launcher, the brand new system monitor, and dozens of other improvements that make 5.21 the ideal desktop for you.\n\nhttps://lnkd.in/dsG_mZM",
+        "totalShareStatistics": {
+            "clickCount": 7,
+            "commentCount": 0,
+            "engagement": 0.03470031545741325,
+            "impressionCount": 634,
+            "likeCount": 15,
+            "shareCount": 0
+        }
+    },
+    {
+        "activityURN": "urn:li:activity:6765953126202662912",
+        "comments": [],
+        "id": "6765953125212815360",
+        "organizationalEntity": "urn:li:organization:29561",
+        "share": "urn:li:share:6767426056463900672",
+        "text": "Join tonight, 12 Feb. @ 17:00 UTC, for a chat with Doctor Luis Falc\u00f3n about MyGNUHealth. Learn more about the project, ask your questions, and enjoy some nice conversation.\nSign up and get more information here: https://lnkd.in/dVnDeuV",
+        "totalShareStatistics": {
+            "clickCount": 200,
+            "commentCount": 6,
+            "engagement": 0.07645678529526789,
+            "impressionCount": 5114,
+            "likeCount": 180,
+            "shareCount": 5
+        }
+    }
+]
