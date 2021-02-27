@@ -9,6 +9,8 @@ category: sok-blog
 
 Hello!!! Last month I started working on "Automating Social Media data collection" as my Season of KDE project, I wanted to share my progress so far. The following work has been done:
 
+A data format has been establised and [this](https://github.com/rohanreddych/rohanreddych.github.io/tree/master/notes/sok-data) is the format of data that is collected every week.
+
 - Twitter data
 
 1. Public metrics like retweets, likes, replies and private metrics like engagement and clicks. 
